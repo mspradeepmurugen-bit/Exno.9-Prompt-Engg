@@ -10,7 +10,7 @@ Runway Gen-2
 Synthesia
 Pictory
 DeepBrain
-Understand the capabilities and limitations of each tool before starting the experiment..
+Understand the capabilities and limitations of each tool before starting the experiment.
 Create Simple Prompts for Video Generation:
 Start with simple prompts to generate short videos. These prompts should describe the general subject or activity.
 Example prompt: "A person walking in a park."
