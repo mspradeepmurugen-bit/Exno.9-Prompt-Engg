@@ -7,7 +7,7 @@
 Familiarize Yourself with Video Generation Models:
 Begin by exploring AI tools capable of video generation from text prompts. Popular models for video generation include:
 Runway Gen-2
-Synthesia
+Synthesia.
 Pictory
 DeepBrain
 Understand the capabilities and limitations of each tool before starting the experiment.
